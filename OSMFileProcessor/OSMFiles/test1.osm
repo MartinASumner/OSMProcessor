@@ -1,0 +1,20 @@
+ <way id="14813486" visible="true" version="4" changeset="44760722" timestamp="2016-12-29T15:45:03Z" user="brianboru" uid="9065">
+  <nd ref="146308859"/>
+  <nd ref="1097734459"/>
+  <nd ref="3471627176"/>
+  <nd ref="146308856"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="survey"/>
+ </way>
+ <way id="14813486" visible="true" version="4" changeset="44760722" timestamp="2016-12-29T15:45:03Z" user="brianboru" uid="9065">
+  <nd ref="146308859"/>
+  <nd ref="1097734459"/>
+  <nd ref="3471627176"/>
+  <nd ref="146308856"/>
+  <tag k="highway" v="badtype"/>
+  <tag k="lit" v="yes"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="survey"/>
+ </way>
